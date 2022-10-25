@@ -8,6 +8,7 @@ public class Main {
     // В стоимости этих товаров каждые три товара должны стоить как два:
     public static String[] productsOnSale = { "Хлеб", "Мороженка" };
 
+
     public static void main(String[] args) {
         System.out.println("Добро пожаловать в магазин!");
         System.out.println("Наш ассортимент:");
